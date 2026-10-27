@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Coats and Coffee//Event v01//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:1564711793505337347-tacoma@coats-and-coffee.local
+DTSTAMP:20261027T190349Z
+DTSTART:20261107T180000Z
+DTEND:20261107T200000Z
+SUMMARY:Coats and Coffee — Cutter’s Point Coffee
+LOCATION:Cutter’s Point Coffee\, 2209 N Pearl St #104\, Tacoma
+DESCRIPTION:November 7\, 2026\, 10 AM–noon America/Los_Angeles. Supportin
+ g Tillicum Woodbrook Community Center. Coats in all sizes for men and wome
+ n\, plus socks and gloves. Please bring clean\, new or gently used donatio
+ ns.
+END:VEVENT
+END:VCALENDAR

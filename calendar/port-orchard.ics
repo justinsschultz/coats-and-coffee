@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Coats and Coffee//Event v01//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:1564711793505337347-port-orchard@coats-and-coffee.local
+DTSTAMP:20261027T190349Z
+DTSTART:20261107T180000Z
+DTEND:20261107T200000Z
+SUMMARY:Coats and Coffee — Mercantile Coffee
+LOCATION:Mercantile Coffee\, 701 Bay St\, Port Orchard
+DESCRIPTION:November 7\, 2026\, 10 AM–noon America/Los_Angeles. Supportin
+ g Kitsap Rescue Mission. Kids’ jackets\, toddler through youth sizes (14
+  months to size 10\, plus S to 2XL). Please bring clean\, new or gently us
+ ed donations.
+END:VEVENT
+END:VCALENDAR
